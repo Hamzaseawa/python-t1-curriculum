@@ -21,7 +21,7 @@ print("i like" ,W )
 s = "seatlle"
 u = "Amareca"
 print(s)
-print(u)     
+print(u) 
 
 # Problem 5
 # Create 3 variables: your pet's name, its age, and its type.
