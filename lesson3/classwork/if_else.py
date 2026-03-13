@@ -8,7 +8,7 @@ print("vote check complete.")
 # if/elif/else:to handle multiple spesific cases
 day = input("what day of the week is it? ")
 if day == "Monday":
-    print("Ugh. I hate monkeys."
+    print("Ugh. I hate monkeys.")
 elif day == "friday":
     print("It's almost the weekend.")
 else:
