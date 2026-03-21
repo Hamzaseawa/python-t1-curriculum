@@ -1,8 +1,6 @@
 # Problem 1
 # Count and print how many times "Alex" appears in the list.
 names = ["Liam", "Alex", "Sophie", "Alex", "Mia"]
-print(names)
-
 
 
 # Problem 2
