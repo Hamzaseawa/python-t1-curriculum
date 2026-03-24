@@ -6,7 +6,6 @@ if "apple" in fruits:
 else:
     print("apple not found.")
 
-
 found = False 
 index = -1
 
