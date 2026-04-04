@@ -1,6 +1,6 @@
 numbers = [5, -8, 35, -3, 6, 2]
 
-total = sum(numbers)
+t                               
 print("the sum is:", total)
 
 print("our algorthim:")
